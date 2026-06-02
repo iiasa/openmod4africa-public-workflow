@@ -27,13 +27,13 @@
         description: Ziguinchor region
     - Senegal|Sédhiou:
         description: Sédhiou region
-
   # Need to double check if these regions are already aggregated in the uploaded data
-    # - Senegal|LS:
-    #     description: Louga and Saint-Louis
-    # - Senegal|FKK:
-    #     description: Fatick, Kaolack and Kaffrine
-    # - Senegal|MTKK:
-    #     description: Matam, Tambacounda, Kédougou and Kolda
-    # - Senegal|ZS:
-    #     description: Ziguinchor and Sédhiou
+    - Senegal|LS:
+        description: Louga and Saint-Louis
+    - Senegal|FKK:
+        description: Fatick, Kaolack and Kaffrine
+    - Senegal|MTKK:
+        description: Matam, Tambacounda, Kédougou and Kolda
+    - Senegal|ZS:
+        description: Ziguinchor and Sédhiou
+
