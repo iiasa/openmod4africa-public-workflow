@@ -10,7 +10,7 @@
     - Senegal|Saint-Louis:
         description: Saint-Louis region
     - Senegal|Fatick:
-        description: Fatick region   
+        description: Fatick region
     - Senegal|Kaolack:
         description: Kaolack region
     - Senegal|Kaffrine:
@@ -28,8 +28,7 @@
     - Senegal|Sédhiou:
         description: Sédhiou region
 
-
-  Senegal Zones:
+- Senegal Zones:
     - Senegal|LS:
         description: Louga and Saint-Louis
     - Senegal|FKK:
