@@ -1,0 +1,38 @@
+- Senegal:
+    - Senegal|Dakar:
+        description: 
+    - Senegal|Thiès:
+        description: 
+    - Senegal|Diourbel:
+        description:
+    - Senegal|Louga:
+        description:
+    - Senegal|Saint-Louis:
+        description: 
+    - Senegal|Fatick:
+        description:    
+    - Senegal|Kaolack:
+        description:
+    - Senegal|Kaffrine:
+        description:
+    - Senegal|Matam:
+        description:
+    - Senegal|Tambacounda:
+        description:
+    - Senegal|Kédougou:
+        description:
+    - Senegal|Kolda:
+        description:
+    - Senegal|Ziguinchor:
+        description:
+    - Senegal|Sédhiou:
+        description:
+    - Senegal|LS:
+        description: Louga and Saint-Louis
+    - Senegal|FKK:
+        description: Fatick, Kaolack and Kaffrine
+    - Senegal|MTKK:
+        description: Matam, Tambacounda, Kédougou and Kolda
+    - Senegal|ZS:
+        description: Ziguinchor and Sédhiou
+        
