@@ -1,0 +1,84 @@
+model:
+native_regions:
+  - Nigeria States|Abia
+  - Nigeria States|Adamawa
+  - Nigeria States|Akwa Ibom
+  - Nigeria States|Anambra
+  - Nigeria States|Bauchi
+  - Nigeria States|Bayelsa
+  - Nigeria States|Benue
+  - Nigeria States|Borno
+  - Nigeria States|Cross River
+  - Nigeria States|Delta
+  - Nigeria States|Ebonyi
+  - Nigeria States|Edo
+  - Nigeria States|Ekiti
+  - Nigeria States|Enugu
+  - Nigeria States|Gombe
+  - Nigeria States|Imo
+  - Nigeria States|Jigawa
+  - Nigeria States|Kaduna
+  - Nigeria States|Kano
+  - Nigeria States|Katsina
+  - Nigeria States|Kebbi
+  - Nigeria States|Kogi
+  - Nigeria States|Kwara
+  - Nigeria States|Lagos
+  - Nigeria States|Nasarawa
+  - Nigeria States|Niger
+  - Nigeria States|Ogun
+  - Nigeria States|Ondo
+  - Nigeria States|Osun
+  - Nigeria States|Oyo
+  - Nigeria States|Plateau
+  - Nigeria States|Rivers
+  - Nigeria States|Sokoto
+  - Nigeria States|Taraba
+  - Nigeria States|Yobe
+  - Nigeria States|Zamfara
+  - Nigeria States|Federal Capital Territory
+
+common_regions:
+  - Nigeria Zones|North Central:
+      - Nigeria States|Benue
+      - Nigeria States|Kogi
+      - Nigeria States|Kwara
+      - Nigeria States|Nasarawa
+      - Nigeria States|Niger
+      - Nigeria States|Plateau
+      - Nigeria States|Federal Capital Territory
+  - Nigeria Zones|North East:
+      - Nigeria States|Adamawa
+      - Nigeria States|Bauchi
+      - Nigeria States|Borno
+      - Nigeria States|Gombe
+      - Nigeria States|Taraba
+      - Nigeria States|Yobe
+  - Nigeria Zones|North West:
+      - Nigeria States|Jigawa
+      - Nigeria States|Kaduna
+      - Nigeria States|Kano
+      - Nigeria States|Katsina
+      - Nigeria States|Kebbi
+      - Nigeria States|Sokoto
+      - Nigeria States|Zamfara
+  - Nigeria Zones|South East:
+      - Nigeria States|Abia
+      - Nigeria States|Anambra
+      - Nigeria States|Ebonyi
+      - Nigeria States|Enugu
+      - Nigeria States|Imo
+  - Nigeria Zones|South South:
+      - Nigeria States|Akwa Ibom
+      - Nigeria States|Bayelsa
+      - Nigeria States|Cross River
+      - Nigeria States|Delta
+      - Nigeria States|Edo
+      - Nigeria States|Rivers
+  - Nigeria Zones|South West:
+      - Nigeria States|Ekiti
+      - Nigeria States|Lagos
+      - Nigeria States|Ogun
+      - Nigeria States|Ondo
+      - Nigeria States|Osun
+      - Nigeria States|Oyo
