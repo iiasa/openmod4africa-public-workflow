@@ -14,30 +14,24 @@ native_regions:
   - Senegal|Kolda
   - Senegal|Ziguinchor
   - Senegal|Sédhiou
-  
-# Need to double check if the data is uploaded with the regions below already aggregated 
-  - Senegal|LS
-  - Senegal|FKK
-  - Senegal|MTKK
-  - Senegal|ZS
 
-# If not aggregated, we can use the mapping below to aggregate the data at the region level
+common_regions:
 
-  # - Senegal|LS:
-  #   - Senegal|Louga
-  #   - Senegal|Saint-Louis
+  - Senegal|LS:
+    - Senegal|Louga
+    - Senegal|Saint-Louis
 
-  # - Senegal|FKK:
-  #   - Senegal|Fatick
-  #   - Senegal|Kaolack
-  #   - Senegal|Kaffrine
+  - Senegal|FKK:
+    - Senegal|Fatick
+    - Senegal|Kaolack
+    - Senegal|Kaffrine
 
-  # - Senegal|MTKK:
-  #   - Senegal|Matam
-  #   - Senegal|Tambacounda
-  #   - Senegal|Kédougou
-  #   - Senegal|Kolda
+  - Senegal|MTKK:
+    - Senegal|Matam
+    - Senegal|Tambacounda
+    - Senegal|Kédougou
+    - Senegal|Kolda
 
-  # - Senegal|ZS:
-  #   - Senegal|Ziguinchor
-  #   - Senegal|Sédhiou
+  - Senegal|ZS:
+    - Senegal|Ziguinchor
+    - Senegal|Sédhiou

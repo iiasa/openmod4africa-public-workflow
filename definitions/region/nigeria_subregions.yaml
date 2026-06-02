@@ -2,23 +2,17 @@
 
 - Nigeria Zones:
     - Nigeria Zones|North Central:
-        description: 
-          Benue, Kogi, Kwara, Nasarawa, Niger, Plateau, Federal Capital Territory
+        description: Benue, Kogi, Kwara, Nasarawa, Niger, Plateau, Federal Capital Territory
     - Nigeria Zones|North East:
-        description: 
-          Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe
+        description: Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe
     - Nigeria Zones|North West:
-        description: 
-          Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara
+        description: Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara
     - Nigeria Zones|South East:
-        description: 
-          Abia, Anambra, Ebonyi, Enugu, Imo
+        description: Abia, Anambra, Ebonyi, Enugu, Imo
     - Nigeria Zones|South South:
-        description: 
-          Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers
+        description: Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers
     - Nigeria Zones|South West:
-        description: 
-          Ekiti, Lagos, Ogun, Ondo, Osun, Oyo
+        description: Ekiti, Lagos, Ogun, Ondo, Osun, Oyo
 
 - Nigeria States:
     - Nigeria States|Abia:

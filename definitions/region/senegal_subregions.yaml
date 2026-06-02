@@ -1,38 +1,39 @@
 - Senegal:
     - Senegal|Dakar:
-        description: 
+        description: Dakar region
     - Senegal|Thiès:
-        description: 
+        description: Thiès region
     - Senegal|Diourbel:
-        description:
+        description: Diourbel region
     - Senegal|Louga:
-        description:
+        description: Louga region
     - Senegal|Saint-Louis:
-        description: 
+        description: Saint-Louis region
     - Senegal|Fatick:
-        description:    
+        description: Fatick region   
     - Senegal|Kaolack:
-        description:
+        description: Kaolack region
     - Senegal|Kaffrine:
-        description:
+        description: Kaffrine region
     - Senegal|Matam:
-        description:
+        description: Matam region
     - Senegal|Tambacounda:
-        description:
+        description: Tambacounda region
     - Senegal|Kédougou:
-        description:
+        description: Kédougou region
     - Senegal|Kolda:
-        description:
+        description: Kolda region
     - Senegal|Ziguinchor:
-        description:
+        description: Ziguinchor region
     - Senegal|Sédhiou:
-        description:
-    - Senegal|LS:
-        description: Louga and Saint-Louis
-    - Senegal|FKK:
-        description: Fatick, Kaolack and Kaffrine
-    - Senegal|MTKK:
-        description: Matam, Tambacounda, Kédougou and Kolda
-    - Senegal|ZS:
-        description: Ziguinchor and Sédhiou
-        
+        description: Sédhiou region
+
+  # Need to double check if these regions are already aggregated in the uploaded data
+    # - Senegal|LS:
+    #     description: Louga and Saint-Louis
+    # - Senegal|FKK:
+    #     description: Fatick, Kaolack and Kaffrine
+    # - Senegal|MTKK:
+    #     description: Matam, Tambacounda, Kédougou and Kolda
+    # - Senegal|ZS:
+    #     description: Ziguinchor and Sédhiou
