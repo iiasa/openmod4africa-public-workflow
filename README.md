@@ -1,35 +1,18 @@
-# Scenario Explorer Workflow Template
+# OpenMod4Africa public workflow
 
-Copyright 2022-2026 IIASA
+Copyright 2026 IIASA
 
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-## Setup
-
-- Create a repository using this template.
-- Deactivate "merge commits" and "rebase merging" in the Settings
-  (so that only "squash merging" is allowed)
-- Add two webhooks in `<workflow-name>-workflow` repository:
-
-  ```
-  Payload URL 1: https://builds.ece.iiasa.ac.at/generic-webhook-trigger/invoke?token=uSnGsckCqQ6z6EMCxXCFyTDPpvmp8MyDnBcu2bHoSB7VdKjn
-  Payload URL 2: https://next-builds.ece.iiasa.ac.at/generic-webhook-trigger/invoke?token=uSnGsckCqQ6z6EMCxXCFyTDPpvmp8MyDnBcu2bHoSB7VdKjn
-  Content type: application/json
-  Secret: Passbolt Jenkins HMAC Secret
-  ```
-- Add `ece-scenario-services-team` as collaborators with `Admin` role in the settings of the repository and remove your personal access if you are part of the team.
 
 ## Overview
 
-This is a template for project-specific scenario processing workflows.
 
-To use this template for a project, do the following:
-- Create a new repository from this template
-- Update the title and overview section of this Readme
-- Start adding definitions and mappings 
-- If you want to use the [common-definitions](https://github.com/IAMconsortium/common-definitions)
-  developed and maintained by the IAMC, rename the file `nomenclature_template.yaml`
-  to `nomenclature.yaml`.
+> [!TIP]
+> For *users not comfortable working with GitHub repositories and yaml files*,
+> the definitions for this project are available for download as an xlsx spreadsheet
+> at [https://files.ece.iiasa.ac.at/openmod4africa-public/openmod4africa-public-template.xlsx](https://files.ece.iiasa.ac.at/openmod4africa-public/openmod4africa-public-template.xlsx).
+
 
 ### Project nomenclature
 
