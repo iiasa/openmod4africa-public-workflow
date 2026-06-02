@@ -18,20 +18,20 @@ native_regions:
 common_regions:
 
   - Senegal|LS:
-    - Senegal|Louga
-    - Senegal|Saint-Louis
+      - Senegal|Louga
+      - Senegal|Saint-Louis
 
   - Senegal|FKK:
-    - Senegal|Fatick
-    - Senegal|Kaolack
-    - Senegal|Kaffrine
+      - Senegal|Fatick
+      - Senegal|Kaolack
+      - Senegal|Kaffrine
 
   - Senegal|MTKK:
-    - Senegal|Matam
-    - Senegal|Tambacounda
-    - Senegal|Kédougou
-    - Senegal|Kolda
+      - Senegal|Matam
+      - Senegal|Tambacounda
+      - Senegal|Kédougou
+      - Senegal|Kolda
 
   - Senegal|ZS:
-    - Senegal|Ziguinchor
-    - Senegal|Sédhiou
+      - Senegal|Ziguinchor
+      - Senegal|Sédhiou
