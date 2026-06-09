@@ -1,0 +1,91 @@
+# Note: this yaml was adapted from https://github.com/iiasa/openmod4africa-workflow/blob/main/definitions/region/african_subregions.yaml#L25-L123
+
+- Nigeria Zones:
+    - Nigeria Zones|North Central:
+        description: Benue, Kogi, Kwara, Nasarawa, Niger, Plateau, Federal Capital Territory
+    - Nigeria Zones|North East:
+        description: Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe
+    - Nigeria Zones|North West:
+        description: Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara
+    - Nigeria Zones|South East:
+        description: Abia, Anambra, Ebonyi, Enugu, Imo
+    - Nigeria Zones|South South:
+        description: Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers
+    - Nigeria Zones|South West:
+        description: Ekiti, Lagos, Ogun, Ondo, Osun, Oyo
+
+- Nigeria:
+    - Nigeria|Abia:
+        description: Known for its commercial hub in Aba, rich in textile and handicrafts
+    - Nigeria|Adamawa:
+        description: Features diverse landscapes from mountains to valleys, with a rich cultural heritage
+    - Nigeria|Akwa Ibom:
+        description: Boasts beautiful beaches and a strong oil and gas industry
+    - Nigeria|Anambra:
+        description: Rich in history and culture, with a vibrant economy centered around commerce and agriculture
+    - Nigeria|Bauchi:
+        description: Home to the Yankari National Park, offering a glimpse into Nigeria's wildlife
+    - Nigeria|Bayelsa:
+        description: Predominantly riverine, crucial to the oil sector, with extensive mangrove forests
+    - Nigeria|Benue:
+        description: Known as the 'Food Basket of the Nation,' with agriculture as its backbone
+    - Nigeria|Borno:
+        description: Features the Sambisa Forest and a history marked by the Boko Haram insurgency
+    - Nigeria|Cross River:
+        description: Hosts the annual Calabar Carnival and is known for its conservation efforts and tourism
+    - Nigeria|Delta:
+        description: Rich in oil and diverse cultures, with significant contributions to Nigeria's economy
+    - Nigeria|Ebonyi:
+        description: Known for its rice production and as a leading state in agriculture
+    - Nigeria|Edo:
+        description: Historically significant with the ancient Benin Kingdom and a vibrant culture
+    - Nigeria|Ekiti:
+        description: Rich in cultural festivals and known for its educational institutions
+    - Nigeria|Enugu:
+        description: Known for its coal mining history and the picturesque Ngwo Pine Forest
+    - Nigeria|Gombe:
+        description: Features savannah landscapes and is an emerging center for commerce and agriculture
+    - Nigeria|Imo:
+        description: Home to oil production, agriculture, and the famous Oguta Lake
+    - Nigeria|Jigawa:
+        description: Characterized by its arid climate and agriculture, particularly millet and sorghum
+    - Nigeria|Kaduna:
+        description: A major industrial and political hub with a rich colonial history
+    - Nigeria|Kano:
+        description: One of Nigeria's oldest cities, pivotal in trade and Islamic scholarship
+    - Nigeria|Katsina:
+        description: Steeped in history with ancient city walls and a strong agricultural base
+    - Nigeria|Kebbi:
+        description: Notable for Argungu Fishing Festival and a strong agricultural sector, especially rice
+    - Nigeria|Kogi:
+        description: Where the Niger and Benue Rivers meet, with a rich cultural and natural diversity
+    - Nigeria|Kwara:
+        description: Known for its harmony among diverse ethnic groups and agricultural activities
+    - Nigeria|Lagos:
+        description: Nigeria's economic powerhouse, with a vibrant culture, commerce, and entertainment scene
+    - Nigeria|Nasarawa:
+        description: Rich in mineral resources and agriculture, with a diverse ethnic composition
+    - Nigeria|Niger:
+        description: Home to the Kainji National Park and the Jebba Dam, important for hydroelectric power
+    - Nigeria|Ogun:
+        description: Notable for its industrial estates and as the birthplace of many Nigerian leaders
+    - Nigeria|Ondo:
+        description: Rich in cocoa production and blessed with natural beauty, including lengthy coastlines
+    - Nigeria|Osun:
+        description: Hosts the famous Osun-Osogbo Sacred Grove, a UNESCO World Heritage site
+    - Nigeria|Oyo:
+        description: Historically significant with the ancient city of Ibadan and a strong agricultural sector
+    - Nigeria|Plateau:
+        description: Known for its scenic landscapes and cooler climate, with a rich cultural heritage
+    - Nigeria|Rivers:
+        description: A key player in Nigeria's oil industry, with a rich cultural tapestry and Port Harcourt as its capital
+    - Nigeria|Sokoto:
+        description: Center of Islamic scholarship and the seat of the Sokoto Caliphate
+    - Nigeria|Taraba:
+        description: Diverse in flora and fauna, with the Mambilla Plateau as a key feature
+    - Nigeria|Yobe:
+        description: Features part of the Sahara Desert and is primarily focused on agriculture
+    - Nigeria|Zamfara:
+        description: Rich in agriculture and mining, with a history of ancient kingdoms
+    - Nigeria|Federal Capital Territory:
+        description: Home to Abuja, Nigeria's capital, symbolizing unity and central governance
