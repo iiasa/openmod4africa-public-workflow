@@ -1,0 +1,95 @@
+- Tunisia States:
+  - Tunisia States|Tunis-ville:
+      description: Tunisia's capital
+  - Tunisia States|Tunis-nord:
+      description: Northern suburbs of Greater Tunis
+  - Tunisia States|El Menzah:
+      description: Ariana region
+  - Tunisia States|Tunis-sud:
+      description: Southern suburbs of Greater Tunis
+  - Tunisia States|EL Mourouj:
+      description: Ben Arous Governorate
+  - Tunisia States|Tunis-est:
+      description: Eastern suburbs of Greater Tunis
+  - Tunisia States|Tunis-ouest:
+      description: Western suburbs of Greater Tunis
+  - Tunisia States|Manouba:
+      description: Manouba region
+  - Tunisia States|Zaghouan:
+      description: Zaghouan region
+  - Tunisia States|Bizerte:
+      description: Bizerte Governorate, northern Tunisia
+  - Tunisia States|Menzel-Bourguiba:
+      description: Industrial zone in northern Tunisia
+  - Tunisia States|Nabeul:
+      description: Nabeul Governorate
+  - Tunisia States|Hammamet:
+      description: Main tourist area in northeastern Tunisia
+  - Tunisia States|Menzel-Bouzelfa:
+      description: Cap Bon region
+  - Tunisia States|Menzel-Temime:
+      description: Major wind farm in northeastern Tunisia
+  - Tunisia States|Beja:
+      description: Béja region, northwestern Tunisia
+  - Tunisia States|Jendouba:
+      description: Jendouba Governorate
+  - Tunisia States|Kef:
+      description: Kef Governorate
+  - Tunisia States|Siliana:
+      description: Siliana Governorate
+  - Tunisia States|Tabarka:
+      description: Main tourist destination in western Tunisia
+  - Tunisia States|Sousse-nord:
+      description: Northern region of Sousse Governorate
+  - Tunisia States|Sousse:
+      description: Sousse Governorate
+  - Tunisia States|Monastir:
+      description: Monastir Governorate
+  - Tunisia States|Moknine:
+      description: Monastir Governorate, central-eastern Tunisia
+  - Tunisia States|Mahdia:
+      description: Mahdia Governorate
+  - Tunisia States|Kairouan:
+      description: Kairouan Governorate
+  - Tunisia States|Kairouan-nord:
+      description: Northern region of Kairouan Governorate
+  - Tunisia States|El Jem:
+      description: Mahdia Governorate, central-eastern Tunisia
+  - Tunisia States|Kasserine:
+      description: Kasserine Governorate
+  - Tunisia States|Sidi Bouzid:
+      description: Sidi Bouzid Governorate
+  - Tunisia States|Maknassy:
+      description: Sidi Bouzid Governorate, central Tunisia
+  - Tunisia States|Gafsa:
+      description: Gafsa Governorate
+  - Tunisia States|Metlaoui:
+      description: Gafsa Governorate, southwestern Tunisia
+  - Tunisia States|Tozeur:
+      description: Tozeur Governorate
+  - Tunisia States|Sfax-ville:
+      description: Sfax Governorate
+  - Tunisia States|Sfax-nord:
+      description: Northern region of Sfax Governorate
+  - Tunisia States|Sfax-sud:
+      description: Southern region of Sfax Governorate
+  - Tunisia States|Jebeniana:
+      description: Sfax Governorate, central-eastern Tunisia
+  - Tunisia States|Mahres:
+      description: Sfax Governorate, central-eastern Tunisia
+  - Tunisia States|Gabes:
+      description: Gabès Governorate
+  - Tunisia States|Zarzis:
+      description: Medenine Governorate, southeastern Tunisia
+  - Tunisia States|Medenine:
+      description: Medenine Governorate
+  - Tunisia States|Jerba:
+      description: Djerba Island, Medenine Governorate, southeastern Tunisia
+  - Tunisia States|Tataouine:
+      description: Tataouine Governorate
+  - Tunisia States|Kebili:
+      description: Kebili Governorate
+  - Tunisia States|Bengarden:
+      description: Ben Guerdane, southeastern Tunisia
+  - Tunisia States|Gabes-nord:
+      description: Northern region of Gabès Governorate
