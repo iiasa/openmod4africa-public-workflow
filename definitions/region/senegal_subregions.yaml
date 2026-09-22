@@ -37,15 +37,87 @@
         description: Ziguinchor and Sédhiou
 
 - Senegal [Connections]:
-    - Senegal|ZS>Dakar:
+    - Senegal|Dakar>Senegal|Thiès:
         description:
-    - Senegal|ZS>Diourbel:
+    - Senegal|Dakar>Senegal|Diourbel:
         description:
-    - Senegal|ZS>FKK:
+    - Senegal|Dakar>Senegal|LS:
         description:
-    - Senegal|ZS>LS:
+    - Senegal|Dakar>Senegal|FKK:
         description:
-    - Senegal|ZS>MTKK:
+    - Senegal|Dakar>Senegal|MTKK:
         description:
-    - Senegal|ZS>Thiès:
+    - Senegal|Dakar>Senegal|ZS:
+        description:
+    - Senegal|Thiès>Senegal|Dakar:
+        description:
+    - Senegal|Thiès>Senegal|Diourbel:
+        description:
+    - Senegal|Thiès>Senegal|LS:
+        description:
+    - Senegal|Thiès>Senegal|FKK:
+        description:
+    - Senegal|Thiès>Senegal|MTKK:
+        description:
+    - Senegal|Thiès>Senegal|ZS:
+        description:
+    - Senegal|Diourbel>Senegal|Dakar:
+        description:
+    - Senegal|Diourbel>Senegal|Thiès:
+        description:
+    - Senegal|Diourbel>Senegal|LS:
+        description:
+    - Senegal|Diourbel>Senegal|FKK:
+        description:
+    - Senegal|Diourbel>Senegal|MTKK:
+        description:
+    - Senegal|Diourbel>Senegal|ZS:
+        description:
+    - Senegal|LS>Senegal|Dakar:
+        description:
+    - Senegal|LS>Senegal|Thiès:
+        description:
+    - Senegal|LS>Senegal|Diourbel:
+        description:
+    - Senegal|LS>Senegal|FKK:
+        description:
+    - Senegal|LS>Senegal|MTKK:
+        description:
+    - Senegal|LS>Senegal|ZS:
+        description:
+    - Senegal|FKK>Senegal|Dakar:
+        description:
+    - Senegal|FKK>Senegal|Thiès:
+        description:
+    - Senegal|FKK>Senegal|Diourbel:
+        description:
+    - Senegal|FKK>Senegal|LS:
+        description:
+    - Senegal|FKK>Senegal|MTKK:
+        description:
+    - Senegal|FKK>Senegal|ZS:
+        description:
+    - Senegal|MTKK>Senegal|Dakar:
+        description:
+    - Senegal|MTKK>Senegal|Thiès:
+        description:
+    - Senegal|MTKK>Senegal|Diourbel:
+        description:
+    - Senegal|MTKK>Senegal|LS:
+        description:
+    - Senegal|MTKK>Senegal|FKK:
+        description:
+    - Senegal|MTKK>Senegal|ZS:
+        description:
+    - Senegal|ZS>Senegal|Dakar:
+        description:
+    - Senegal|ZS>Senegal|Thiès:
+        description:
+    - Senegal|ZS>Senegal|Diourbel:
+        description:
+    - Senegal|ZS>Senegal|LS:
+        description:
+    - Senegal|ZS>Senegal|FKK:
+        description:
+    - Senegal|ZS>Senegal|MTKK:
         description:
