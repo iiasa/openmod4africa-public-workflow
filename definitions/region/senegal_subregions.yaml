@@ -27,8 +27,6 @@
         description: Ziguinchor region
     - Senegal|Sédhiou:
         description: Sédhiou region
-
-- Senegal Zones:
     - Senegal|LS:
         description: Louga and Saint-Louis
     - Senegal|FKK:
@@ -37,3 +35,17 @@
         description: Matam, Tambacounda, Kédougou and Kolda
     - Senegal|ZS:
         description: Ziguinchor and Sédhiou
+
+- Senegal [Connections]:
+    - Senegal|ZS>Dakar:
+        description:
+    - Senegal|ZS>Diourbel:
+        description:
+    - Senegal|ZS>FKK:
+        description:
+    - Senegal|ZS>LS:
+        description:
+    - Senegal|ZS>MTKK:
+        description:
+    - Senegal|ZS>Thiès:
+        description:
