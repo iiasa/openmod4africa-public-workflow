@@ -1,32 +1,32 @@
 - Ethiopia:
   - Ethiopia|Afar:
-      description: 
+      description: Afar Regional State
   - Ethiopia|Amhara:
-      description: 
+      description: Amhara Regional State
   - Ethiopia|Benishangul-Gumuz:
-      description: 
+      description: Benishangul-Gumuz Regional State
   - Ethiopia|Central Ethiopia:
-      description: 
+      description: Central Ethiopia Regional State
   - Ethiopia|Gambela:
-      description: 
+      description: Gambela Regional State
   - Ethiopia|Harari:
-      description: 
+      description: Harari Regional State
   - Ethiopia|Oromia:
-      description: 
+      description: Oromia Regional State
   - Ethiopia|Sidama:
-      description: 
+      description: Sidama Regional State
   - Ethiopia|Somali:
-      description: 
+      description: Somali Regional State
   - Ethiopia|South Ethiopia:
-      description: 
+      description: South Ethiopia Regional State
   - Ethiopia|Southwest:
-      description: 
+      description: "Southwest Ethiopia Peoples' Regional State"
   - Ethiopia|Tigray:
-      description: 
+      description: Regional State
   - Ethiopia|Addis Ababa:
-      description: 
+      description: Chartered City
   - Ethiopia|Dire Dawa:
-      description: 
+      description: Chartered City
 
 - Ethiopia Regions:
   - Ethiopia Regions|North:
