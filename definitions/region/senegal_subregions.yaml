@@ -37,3 +37,25 @@
         description: Matam, Tambacounda, Kédougou and Kolda
     - Senegal|ZS:
         description: Ziguinchor and Sédhiou
+
+- Senegal [Connections]:
+    - Senegal|ZS>Dakar:
+        description:
+    - Senegal|ZS>Diourbel:
+        description:
+    - Senegal|ZS>FKK:
+        description:
+    - Senegal|ZS>FKK:
+        description:
+    - Senegal|ZS>FKK:
+        description:
+    - Senegal|ZS>LS:
+        description:
+    - Senegal|ZS>MTKK:
+        description:
+    - Senegal|ZS>MTKK:
+        description:
+    - Senegal|ZS>MTKK:
+        description:
+    - Senegal|ZS>Thies:
+        description:
