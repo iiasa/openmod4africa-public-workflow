@@ -29,13 +29,13 @@
         description: Sédhiou region
 
 - Senegal Zones:
-    - Senegal|LS:
+    - Senegal Zones|LS:
         description: Louga and Saint-Louis
-    - Senegal|FKK:
+    - Senegal Zones|FKK:
         description: Fatick, Kaolack and Kaffrine
-    - Senegal|MTKK:
+    - Senegal Zones|MTKK:
         description: Matam, Tambacounda, Kédougou and Kolda
-    - Senegal|ZS:
+    - Senegal Zones|ZS:
         description: Ziguinchor and Sédhiou
 
 - Senegal [Connections]:
