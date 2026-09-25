@@ -1,13 +1,13 @@
 - Tunisia:
-  - Tunisia|Tunisian North-Eastern:
+  - Tunisia|Tunisia North-Eastern:
       description: The governorates of Tunis, Ariana, Ben Arous, Manouba, Nabeul, Zaghouan, and Bizerte.
-  - Tunisia|Tunisian North-Western:
+  - Tunisia|Tunisia North-Western:
       description: The governorates of Jendouba, Beja, Siliana, and Kef.
-  - Tunisia|Tunisian Center:
+  - Tunisia|Tunisia Center:
       description: The governorates of Sousse, Monastir, Mahdia, Kairouan, and Sfax.
-  - Tunisia|Tunisian Southern:
+  - Tunisia|Tunisia Southern:
       description: The governorates of Medenine, Gabes, Tataouine, and Kebili.
-  - Tunisia|Tunisian South-Western:
+  - Tunisia|Tunisia South-Western:
       description: The governorates of Gafsa, Sidi Bouzid, Kasserine, and Tozeur.
 
 - Tunisia States:
