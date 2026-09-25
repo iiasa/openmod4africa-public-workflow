@@ -37,15 +37,87 @@
         description: Ziguinchor and Sédhiou
 
 - Senegal [Connections]:
+    - Senegal|Dakar>Thiès:
+        description:
+    - Senegal|Dakar>Diourbel:
+        description:
+    - Senegal|Dakar>LS:
+        description:
+    - Senegal|Dakar>FKK:
+        description:
+    - Senegal|Dakar>MTKK:
+        description:
+    - Senegal|Dakar>ZS:
+        description:
+    - Senegal|Thiès>Dakar:
+        description:
+    - Senegal|Thiès>Diourbel:
+        description:
+    - Senegal|Thiès>LS:
+        description:
+    - Senegal|Thiès>FKK:
+        description:
+    - Senegal|Thiès>MTKK:
+        description:
+    - Senegal|Thiès>ZS:
+        description:
+    - Senegal|Diourbel>Dakar:
+        description:
+    - Senegal|Diourbel>Thiès:
+        description:
+    - Senegal|Diourbel>LS:
+        description:
+    - Senegal|Diourbel>FKK:
+        description:
+    - Senegal|Diourbel>MTKK:
+        description:
+    - Senegal|Diourbel>ZS:
+        description:
+    - Senegal|LS>Dakar:
+        description:
+    - Senegal|LS>Thiès:
+        description:
+    - Senegal|LS>Diourbel:
+        description:
+    - Senegal|LS>FKK:
+        description:
+    - Senegal|LS>MTKK:
+        description:
+    - Senegal|LS>ZS:
+        description:
+    - Senegal|FKK>Dakar:
+        description:
+    - Senegal|FKK>Thiès:
+        description:
+    - Senegal|FKK>Diourbel:
+        description:
+    - Senegal|FKK>LS:
+        description:
+    - Senegal|FKK>MTKK:
+        description:
+    - Senegal|FKK>ZS:
+        description:
+    - Senegal|MTKK>Dakar:
+        description:
+    - Senegal|MTKK>Thiès:
+        description:
+    - Senegal|MTKK>Diourbel:
+        description:
+    - Senegal|MTKK>LS:
+        description:
+    - Senegal|MTKK>FKK:
+        description:
+    - Senegal|MTKK>ZS:
+        description:
     - Senegal|ZS>Dakar:
+        description:
+    - Senegal|ZS>Thiès:
         description:
     - Senegal|ZS>Diourbel:
         description:
-    - Senegal|ZS>FKK:
-        description:
     - Senegal|ZS>LS:
         description:
-    - Senegal|ZS>MTKK:
+    - Senegal|ZS>FKK:
         description:
-    - Senegal|ZS>Thiès:
+    - Senegal|ZS>MTKK:
         description:
