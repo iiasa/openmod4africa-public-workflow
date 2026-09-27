@@ -1,0 +1,58 @@
+model:
+  - plan4res v2.0
+
+# Plan4RES Senegal case-study regions are already exported with their
+# canonical OpenMod4Africa hierarchy. Listing them as native regions registers
+# the model while keeping the uploaded identifiers unchanged.
+native_regions:
+  - Senegal|Dakar
+  - Senegal|Thies
+  - Senegal|Diourbel
+  - Senegal|LS
+  - Senegal|FKK
+  - Senegal|MTKK
+  - Senegal|ZS
+
+  # Allow every directed Plan4RES inter-zonal connection.
+  - Senegal|Dakar>Thies
+  - Senegal|Dakar>Diourbel
+  - Senegal|Dakar>LS
+  - Senegal|Dakar>FKK
+  - Senegal|Dakar>MTKK
+  - Senegal|Dakar>ZS
+  - Senegal|Thies>Dakar
+  - Senegal|Thies>Diourbel
+  - Senegal|Thies>LS
+  - Senegal|Thies>FKK
+  - Senegal|Thies>MTKK
+  - Senegal|Thies>ZS
+  - Senegal|Diourbel>Dakar
+  - Senegal|Diourbel>Thies
+  - Senegal|Diourbel>LS
+  - Senegal|Diourbel>FKK
+  - Senegal|Diourbel>MTKK
+  - Senegal|Diourbel>ZS
+  - Senegal|LS>Dakar
+  - Senegal|LS>Thies
+  - Senegal|LS>Diourbel
+  - Senegal|LS>FKK
+  - Senegal|LS>MTKK
+  - Senegal|LS>ZS
+  - Senegal|FKK>Dakar
+  - Senegal|FKK>Thies
+  - Senegal|FKK>Diourbel
+  - Senegal|FKK>LS
+  - Senegal|FKK>MTKK
+  - Senegal|FKK>ZS
+  - Senegal|MTKK>Dakar
+  - Senegal|MTKK>Thies
+  - Senegal|MTKK>Diourbel
+  - Senegal|MTKK>LS
+  - Senegal|MTKK>FKK
+  - Senegal|MTKK>ZS
+  - Senegal|ZS>Dakar
+  - Senegal|ZS>Thies
+  - Senegal|ZS>Diourbel
+  - Senegal|ZS>LS
+  - Senegal|ZS>FKK
+  - Senegal|ZS>MTKK
