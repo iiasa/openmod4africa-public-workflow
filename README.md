@@ -54,6 +54,12 @@ does not introduce Plan4RES-specific variable definitions. The local
 GENeSYS-MOD extension files are a separate development concern and are not
 required for the Plan4RES registration.
 
+Annual and hourly datetime files can omit the `Subannual` column. When the
+column is present, its labels are validated against the openENTRANCE definitions
+in `definitions/subannual`. These local copies are required by
+`nomenclature-iamc` 0.32.0, which does not support importing that dimension via
+`definitions.subannual.repository`.
+
 ### Workflow
 
 The module `workflow.py` has a function `main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:`.
