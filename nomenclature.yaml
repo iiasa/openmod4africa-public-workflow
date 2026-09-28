@@ -13,3 +13,5 @@ definitions:
     repository: openENTRANCE
   region:
     country: true
+  subannual:
+    repository: openENTRANCE
