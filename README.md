@@ -57,10 +57,22 @@ GENeSYS-MOD extension files are a separate development concern and are not
 required for Plan4RES validation.
 
 Annual and hourly datetime files can omit the `Subannual` column. When the
-column is present, its labels are validated against the openENTRANCE definitions
-in `definitions/subannual`. These local copies are required by
-`nomenclature-iamc` 0.32.0, which does not support importing that dimension via
-`definitions.subannual.repository`.
+column is present, its labels must be validated against openENTRANCE through
+`definitions.subannual.repository` in `nomenclature.yaml`. No local subannual
+definitions are included in this proposal.
+
+**Blocked on nomenclature support:** `nomenclature-iamc` 0.32.0 ignores this
+import configuration and raises `ValueError: Empty codelist: subannual`.
+Before this proposal can be merged, the upstream package must add `subannual`
+to `DataStructureConfig`, its dimension validator, and its external-repository
+enumeration. The package also needs regression coverage for loading external
+subannual definitions and validating their labels. Once that support is
+released, update `requirements.txt` to require the supporting version and
+rerun project and dataset validation.
+
+The alternative proposal keeps standard openENTRANCE definitions locally and
+works with the current package. The two proposals are alternatives, not
+changes intended to be merged together.
 
 ### Workflow
 

@@ -13,3 +13,6 @@ definitions:
     repository: openENTRANCE
   region:
     country: true
+  # Requires nomenclature support for external subannual codelists.
+  subannual:
+    repository: openENTRANCE
