@@ -1,0 +1,3 @@
+- Maximum Active Power|Electricity|Battery:
+    description: Maximum active power of a typical power plant generating electricity from battery discharging.
+    unit: MW

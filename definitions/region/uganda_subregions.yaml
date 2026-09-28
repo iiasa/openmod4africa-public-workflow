@@ -1,0 +1,11 @@
+- Uganda:
+  - Uganda|Central Uganda:
+      description: Buganda, Kampala
+  - Uganda|Eastern Uganda:
+      description: Teso, Sebei, Bugisu, Bukedi, Busoga
+  - Uganda|Western Uganda:
+      description: Bunyoro, Tooro, Rwenzori, Ankole, Kigezi
+  - Uganda|Northern Uganda:
+      description: West Nile, Madi, Acholi, Lango, Karamoja
+  - Uganda|Kampala-Wakiso:
+      description: Kampala, Wakiso
