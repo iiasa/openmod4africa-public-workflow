@@ -35,24 +35,26 @@ Please make sure to follow the instructions completely, both the _Model mapping_
 4. Set [@danielhuppmann](https://github.com/danielhuppmann) and [@phackstock](https://github.com/phackstock) as reviewers.
 5. Once everything is in order we will merge your pull request and your model will be registered.
 
-### Plan4RES v2.0 registration
+### Plan4RES Senegal dataset validation
 
-This fork registers IAMC results produced by **Plan4RES v2.0** for the Senegal
+This proposal supports validating IAMC results produced by **Plan4RES v2.0** for the Senegal
 case study. The contribution adds the seven model zones (`Dakar`, `Thies`,
 `Diourbel`, `LS`, `FKK`, `MTKK` and `ZS`) below the `Senegal` hierarchy and
 allows directed electricity connections between every pair of zones.
 
 Plan4RES exports these regions directly in canonical form, for example
 `Senegal|Dakar` and `Senegal|Dakar>Thies`. The spelling `Thies` is used
-consistently without an accent. The model registration is defined in
-`mappings/plan4res_v2.0.yaml`; the corresponding common-region definitions
-are in `definitions/region/senegal_subregions.yaml`.
+consistently without an accent. Regions are defined only in
+`definitions/region/senegal_subregions.yaml`. No Plan4RES mapping is needed
+to validate these canonical names: the workflow checks them against the shared
+region definitions without renaming or aggregation. This proposal addresses
+dataset validation, not the separate model-registration procedure above.
 
 The submitted Plan4RES dataset uses only variable-unit combinations and
-subannual labels already defined by openENTRANCE. This registration therefore
+subannual labels already defined by openENTRANCE. This proposal therefore
 does not introduce Plan4RES-specific variable definitions. The local
 GENeSYS-MOD extension files are a separate development concern and are not
-required for the Plan4RES registration.
+required for Plan4RES validation.
 
 Annual and hourly datetime files can omit the `Subannual` column. When the
 column is present, its labels are validated against the openENTRANCE definitions
