@@ -1,0 +1,9 @@
+- Operation and Maintenance Cost|Electricity|Battery:
+    description: Operation and maintenance cost for generating electricity from battery discharging.
+    unit: EUR/MWh
+- Operational Cost|Constant Term|Electricity Generation|Battery:
+    description: Constant term (intercept) to compute operational cost for generating electricity from battery discharging.
+    unit: Mcal/hour
+- Variable Cost|Electricity|Battery:
+    description: Variable cost for generating electricity from battery discharging without the Fuel cost
+    unit: EUR/MWh
