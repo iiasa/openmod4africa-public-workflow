@@ -105,3 +105,19 @@
       description: Ben Guerdane, southeastern Tunisia
   - Gabes-nord:
       description: Northern region of Gabès Governorate
+
+- Tunisia [Connections]:
+  - Tunisia Center>Tunisia Center:
+      description:
+  - Tunisia Center>Tunisia North-Western:
+      description:
+  - Tunisia Center>Tunisia South-Western:
+      description:
+  - Tunisia North-Western>Tunisia Center:
+      description:
+  - Tunisia North-Western>Tunisia North-Western:
+      description:
+  - Tunisia South-Western>Tunisia Center:
+      description:
+  - Tunisia South-Western>Tunisia South-Western:
+      description:
