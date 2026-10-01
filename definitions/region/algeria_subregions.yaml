@@ -1,7 +1,11 @@
 - Algeria:
-  - Algeria|Northern Algeria:
+  - Northern Algeria:
       description: 
-  - Algeria|Central Algeria:
+  - Central Algeria:
       description: 
-  - Algeria|Southern Algeria:
+  - Southern Algeria:
       description: 
+
+- Algeria [Connections]:
+  - Central Algeria>Southern Algeria:
+      description:
