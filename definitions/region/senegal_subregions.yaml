@@ -1,123 +1,123 @@
 - Senegal:
-    - Senegal|Dakar:
-        description: Dakar region
-    - Senegal|Thies:
-        description: Thies region
-    - Senegal|Diourbel:
-        description: Diourbel region
-    - Senegal|Louga:
-        description: Louga region
-    - Senegal|Saint-Louis:
-        description: Saint-Louis region
-    - Senegal|Fatick:
-        description: Fatick region
-    - Senegal|Kaolack:
-        description: Kaolack region
-    - Senegal|Kaffrine:
-        description: Kaffrine region
-    - Senegal|Matam:
-        description: Matam region
-    - Senegal|Tambacounda:
-        description: Tambacounda region
-    - Senegal|Kédougou:
-        description: Kédougou region
-    - Senegal|Kolda:
-        description: Kolda region
-    - Senegal|Ziguinchor:
-        description: Ziguinchor region
-    - Senegal|Sédhiou:
-        description: Sédhiou region
-    - Senegal|LS:
-        description: Louga and Saint-Louis
-    - Senegal|FKK:
-        description: Fatick, Kaolack and Kaffrine
-    - Senegal|MTKK:
-        description: Matam, Tambacounda, Kédougou and Kolda
-    - Senegal|ZS:
-        description: Ziguinchor and Sédhiou
+  - Dakar:
+      description: Dakar region
+  - Thies:
+      description: Thies region
+  - Diourbel:
+      description: Diourbel region
+  - Louga:
+      description: Louga region
+  - Saint-Louis:
+      description: Saint-Louis region
+  - Fatick:
+      description: Fatick region
+  - Kaolack:
+      description: Kaolack region
+  - Kaffrine:
+      description: Kaffrine region
+  - Matam:
+      description: Matam region
+  - Tambacounda:
+      description: Tambacounda region
+  - Kédougou:
+      description: Kédougou region
+  - Kolda:
+      description: Kolda region
+  - Ziguinchor:
+      description: Ziguinchor region
+  - Sédhiou:
+      description: Sédhiou region
+  - LS:
+      description: Louga and Saint-Louis
+  - FKK:
+      description: Fatick, Kaolack and Kaffrine
+  - MTKK:
+      description: Matam, Tambacounda, Kédougou and Kolda
+  - ZS:
+      description: Ziguinchor and Sédhiou
 
 - Senegal [Connections]:
-    - Senegal|Dakar>Thies:
-        description:
-    - Senegal|Dakar>Diourbel:
-        description:
-    - Senegal|Dakar>LS:
-        description:
-    - Senegal|Dakar>FKK:
-        description:
-    - Senegal|Dakar>MTKK:
-        description:
-    - Senegal|Dakar>ZS:
-        description:
-    - Senegal|Thies>Dakar:
-        description:
-    - Senegal|Thies>Diourbel:
-        description:
-    - Senegal|Thies>LS:
-        description:
-    - Senegal|Thies>FKK:
-        description:
-    - Senegal|Thies>MTKK:
-        description:
-    - Senegal|Thies>ZS:
-        description:
-    - Senegal|Diourbel>Dakar:
-        description:
-    - Senegal|Diourbel>Thies:
-        description:
-    - Senegal|Diourbel>LS:
-        description:
-    - Senegal|Diourbel>FKK:
-        description:
-    - Senegal|Diourbel>MTKK:
-        description:
-    - Senegal|Diourbel>ZS:
-        description:
-    - Senegal|LS>Dakar:
-        description:
-    - Senegal|LS>Thies:
-        description:
-    - Senegal|LS>Diourbel:
-        description:
-    - Senegal|LS>FKK:
-        description:
-    - Senegal|LS>MTKK:
-        description:
-    - Senegal|LS>ZS:
-        description:
-    - Senegal|FKK>Dakar:
-        description:
-    - Senegal|FKK>Thies:
-        description:
-    - Senegal|FKK>Diourbel:
-        description:
-    - Senegal|FKK>LS:
-        description:
-    - Senegal|FKK>MTKK:
-        description:
-    - Senegal|FKK>ZS:
-        description:
-    - Senegal|MTKK>Dakar:
-        description:
-    - Senegal|MTKK>Thies:
-        description:
-    - Senegal|MTKK>Diourbel:
-        description:
-    - Senegal|MTKK>LS:
-        description:
-    - Senegal|MTKK>FKK:
-        description:
-    - Senegal|MTKK>ZS:
-        description:
-    - Senegal|ZS>Dakar:
-        description:
-    - Senegal|ZS>Thies:
-        description:
-    - Senegal|ZS>Diourbel:
-        description:
-    - Senegal|ZS>LS:
-        description:
-    - Senegal|ZS>FKK:
-        description:
-    - Senegal|ZS>MTKK:
-        description:
+  - Dakar>Thies:
+      description:
+  - Dakar>Diourbel:
+      description:
+  - Dakar>LS:
+      description:
+  - Dakar>FKK:
+      description:
+  - Dakar>MTKK:
+      description:
+  - Dakar>ZS:
+      description:
+  - Thies>Dakar:
+      description:
+  - Thies>Diourbel:
+      description:
+  - Thies>LS:
+      description:
+  - Thies>FKK:
+      description:
+  - Thies>MTKK:
+      description:
+  - Thies>ZS:
+      description:
+  - Diourbel>Dakar:
+      description:
+  - Diourbel>Thies:
+      description:
+  - Diourbel>LS:
+      description:
+  - Diourbel>FKK:
+      description:
+  - Diourbel>MTKK:
+      description:
+  - Diourbel>ZS:
+      description:
+  - LS>Dakar:
+      description:
+  - LS>Thies:
+      description:
+  - LS>Diourbel:
+      description:
+  - LS>FKK:
+      description:
+  - LS>MTKK:
+      description:
+  - LS>ZS:
+      description:
+  - FKK>Dakar:
+      description:
+  - FKK>Thies:
+      description:
+  - FKK>Diourbel:
+      description:
+  - FKK>LS:
+      description:
+  - FKK>MTKK:
+      description:
+  - FKK>ZS:
+      description:
+  - MTKK>Dakar:
+      description:
+  - MTKK>Thies:
+      description:
+  - MTKK>Diourbel:
+      description:
+  - MTKK>LS:
+      description:
+  - MTKK>FKK:
+      description:
+  - MTKK>ZS:
+      description:
+  - ZS>Dakar:
+      description:
+  - ZS>Thies:
+      description:
+  - ZS>Diourbel:
+      description:
+  - ZS>LS:
+      description:
+  - ZS>FKK:
+      description:
+  - ZS>MTKK:
+      description:
