@@ -1,0 +1,13 @@
+- Season:
+  - Winter:
+      description: January 1 to March 20 and December 21 to December 31
+      duration: 90 / 365
+  - Spring:
+      description: March 21 to June 20
+      duration: 92 / 365
+  - Summer:
+      description: June 21 to September 20
+      duration: 92 / 365
+  - Autumn:
+      description: September 21 to December 20
+      duration: 91 / 365
