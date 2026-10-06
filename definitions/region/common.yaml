@@ -1,0 +1,8 @@
+- East Africa:
+  - Eastern Africa Power Pool:
+      description:
+      countries: [
+        Burundi, Democratic Republic of the Congo, Egypt, Ethiopia,
+        Libya, Kenya, Rwanda, Sudan, Tanzania, Uganda, Djibouti, South Sudan,
+        Somalia
+       ]
