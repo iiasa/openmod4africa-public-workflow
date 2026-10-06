@@ -9,3 +9,13 @@
       description: West Nile, Madi, Acholi, Lango, Karamoja
   - Kampala-Wakiso:
       description: Kampala, Wakiso
+
+- Uganda [Connections]:
+  - Central Uganda>Western Uganda:
+      description:
+  - Eastern Uganda>Central Uganda:
+      description:
+  - Eastern Uganda>Northern Uganda:
+      description:
+  - Northern Uganda>Central Uganda:
+      description:
