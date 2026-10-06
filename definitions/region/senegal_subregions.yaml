@@ -1,8 +1,8 @@
 - Senegal:
   - Dakar:
       description: Dakar region
-  - Thiès:
-      description: Thiès region
+  - Thies:
+      description: Thies region
   - Diourbel:
       description: Diourbel region
   - Louga:
@@ -37,15 +37,87 @@
       description: Ziguinchor and Sédhiou
 
 - Senegal [Connections]:
+  - Dakar>Thies:
+      description:
+  - Dakar>Diourbel:
+      description:
+  - Dakar>LS:
+      description:
+  - Dakar>FKK:
+      description:
+  - Dakar>MTKK:
+      description:
+  - Dakar>ZS:
+      description:
+  - Thies>Dakar:
+      description:
+  - Thies>Diourbel:
+      description:
+  - Thies>LS:
+      description:
+  - Thies>FKK:
+      description:
+  - Thies>MTKK:
+      description:
+  - Thies>ZS:
+      description:
+  - Diourbel>Dakar:
+      description:
+  - Diourbel>Thies:
+      description:
+  - Diourbel>LS:
+      description:
+  - Diourbel>FKK:
+      description:
+  - Diourbel>MTKK:
+      description:
+  - Diourbel>ZS:
+      description:
+  - LS>Dakar:
+      description:
+  - LS>Thies:
+      description:
+  - LS>Diourbel:
+      description:
+  - LS>FKK:
+      description:
+  - LS>MTKK:
+      description:
+  - LS>ZS:
+      description:
+  - FKK>Dakar:
+      description:
+  - FKK>Thies:
+      description:
+  - FKK>Diourbel:
+      description:
+  - FKK>LS:
+      description:
+  - FKK>MTKK:
+      description:
+  - FKK>ZS:
+      description:
+  - MTKK>Dakar:
+      description:
+  - MTKK>Thies:
+      description:
+  - MTKK>Diourbel:
+      description:
+  - MTKK>LS:
+      description:
+  - MTKK>FKK:
+      description:
+  - MTKK>ZS:
+      description:
   - ZS>Dakar:
+      description:
+  - ZS>Thies:
       description:
   - ZS>Diourbel:
       description:
-  - ZS>FKK:
-      description:
   - ZS>LS:
       description:
-  - ZS>MTKK:
+  - ZS>FKK:
       description:
-  - ZS>Thiès:
+  - ZS>MTKK:
       description:
